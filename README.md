@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vidhya-modern-portfolio.lovable.app](https://vidhya-modern-portfolio.lovable.app)
 
-- 📫 How to reach me **vidhyamani24032007@gmaol.com**
+- 📫 How to reach me **vidhyamani24032007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
