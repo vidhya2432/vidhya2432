@@ -1,25 +1,33 @@
-<h1 align="center">Hi 👋, I'm Vidhya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhya2432&label=Profile%20views&color=0e75b6&style=flat" alt="vidhya2432" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd4-9452-7faf3ae5e38e.gif" width="100">
 
-- 👨‍💻 All of my projects are available at [https://vidhya-modern-portfolio.lovable.app](https://vidhya-modern-portfolio.lovable.app)
+  ### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Dynamic Quotes
 
-- 📫 How to reach me **vidhyamani24032007@gmail.com**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.+-+Cory+House;First%2C+solve+the+problem.+Then%2C+write+the+code.+-+John+Johnson;Any+fool+can+write+code+that+a+computer+can+understand.+-+Martin+Fowler;The+best+way+to+get+a+project+done+faster+is+to+start+sooner.+-+Jim+Highsmith;Code+never+lies%2C+comments+sometimes+do.+-+Ron+Jeffries;Programs+must+be+written+for+people+to+read.+-+Harold+Abelson;The+only+way+to+go+fast%2C+is+to+go+well.+-+Robert+C.+Martin;Simplicity+is+the+soul+of+efficiency.+-+Austin+Freeman;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+-+Robert+C.+Martin;Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds" alt="Dynamic Quotes" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vidhya manikandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhya manikandan" height="30" width="40" /></a>
-<a href="https://instagram.com/crazy.attitude_queen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crazy.attitude_queen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vidhya manikandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vidhya manikandan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vidhya-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vidhya-24" height="30" width="40" /></a>
-</p>
+  <br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Thanks for Visiting!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhya2432&show_icons=true&locale=en&layout=compact" alt="vidhya2432" /></p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25">
+  <strong>From <a href="https://github.com/mourishantony">Mourish Antony</a></strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhya2432&show_icons=true&locale=en" alt="vidhya2432" /></p>
+  <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhya2432&" alt="vidhya2432" /></p>
+  <!-- Profile Views Counter -->
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
+    <img src="https://komarev.com/ghpvc/?username=mourishantony&label=Profile%20Views&color=ff6b6b&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
+  </div>
+
+  <br><br>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
